@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ProjectITZon</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="app_enter_email">App Enter Email</string>
+    <string name="app_enter_age">App Enter Age</string>
+    <string name="app_enter_name">App Enter Name</string>
+    <string name="registration_here">Registration here...</string>
+    <string name="name">Name</string>
+    <string name="actionbar_sample">Action Bar Sample</string>
+    <string name="compat_header_sample">Compat Header Sample</string>
+    <string name="action_bar_sample">Action Bar Sample</string>
+    <string name="multidrawer_sample">Multi Drawer Sample</string>
+    <string name="nontranslucentstatusdrawer_sa">NonTransLucentStatusDrawer_sa</string>
+    <string name="simplefragment_sample">Simple Fragment Sample</string>
+    <string name="settings">Settings</string>
+    <string name="help">Help</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>
